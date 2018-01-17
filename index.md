@@ -7,6 +7,8 @@ layout: default
 
 [集成式接口](api/CreateOrder)
 
+[直连接口-boleot](api/)
+
 # [](#fcontrol)风控平台
 
 [风控CPF校验接口说明](api/QueryCpfInfo)
