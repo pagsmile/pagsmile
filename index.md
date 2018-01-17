@@ -7,7 +7,7 @@ layout: default
 
 [集成式接口](api/CreateOrder)
 
-[直连接口-boleto](api/DirectBleoto)
+[直连接口-boleto](api/DirectBoleto)
 
 # [](#fcontrol)风控平台
 
